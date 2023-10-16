@@ -1,13 +1,12 @@
 # Airbnb Experiences Clone
 
-In this project, I gained valuable insights into React development by learning
-how to effectively use props. 
+A React project mimicking Airbnb's Experiences page.
 
 ## Preview
 
 ![Screenshot1](src/assets/showcase.png)
 
-## Running on your machine 
+## Running on your machine
 
 To run this project locally, follow these steps:
 
@@ -21,6 +20,11 @@ To run this project locally, follow these steps:
 4. Start the development server (`npm run dev`)
 
 The project will be accessible at http://127.0.0.1:8080.
+
+## What I learned
+
+In this project, I gained valuable insights into React development by learning
+how to effectively use props.
 
 ## Acknowledgments
 
