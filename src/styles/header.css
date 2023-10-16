@@ -1,0 +1,13 @@
+header {
+  display: flex;
+  align-items: center;
+  block-size: 3.375rem;
+  box-shadow: 0.1rem 0.1rem 1rem rgba(0, 0, 0, 0.3);
+}
+
+.logo-img-container {
+  display: flex;
+  block-size: 5rem;
+  max-inline-size: 50%;
+  margin: 0 0.5rem 0 0.5rem;
+}
