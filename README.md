@@ -1,8 +1,37 @@
-# React + Vite
+# Airbnb Experiences Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this project, I gained valuable insights into React development by learning
+how to effectively use props. 
 
-Currently, two official plugins are available:
+## Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot1](src/assets/showcase.png)
+
+## Running on your machine 
+
+To run this project locally, follow these steps:
+
+1. Clone the repository
+   (`git clone https://github.com/caiohenrique-3/airbnb-experiences-clone.git`)
+
+2. Navigate to the project directory (`cd airbnb-experiences-clone`)
+
+3. Install dependencies (`npm install`)
+
+4. Start the development server (`npm run dev`)
+
+The project will be accessible at http://127.0.0.1:8080.
+
+## Acknowledgments
+
+Special thanks to the following resources for their contributions to this
+project:
+
+- [React Course](https://youtube.com/watch?v=bMknfKXIFA8)
+- [Google Webfonts Helper](https://gwfh.mranftl.com/fonts)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
